@@ -2,7 +2,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Herkamal/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Post-Installation Configuration](https://github.com/Herkamal/post-install-config)
   - [osTicket: Resolving Tickets in a Ticketing System]
 
 <h2>🤳Connect with me on LinkedIn:</h2>
