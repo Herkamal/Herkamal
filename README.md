@@ -1,4 +1,4 @@
-## Hi, I'm Herkamal an <a herf= "www.linkedin.com/in/herkamal-randhawa-23980a16a" IT Professional </a> 
+<h1>Hi, I'm Herkamal, an <a href="www.linkedin.com/in/herkamal-randhawa-23980a16a">IT Professional</a></h1>
 
 <!--
 **Herkamal/Herkamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
