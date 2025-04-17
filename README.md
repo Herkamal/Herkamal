@@ -6,6 +6,7 @@
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/Herkamal/Ticket-Lifecycle)
  
 - <b>Microsoft Azure</b>
+  - [Preparing AD Infrastructure in Azure](https://github.com/Herkamal/Install-AD)
 
 
 <h2>🤳Connect with me on LinkedIn:</h2>
