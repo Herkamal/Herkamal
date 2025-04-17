@@ -1,7 +1,7 @@
 <h1>Hi, I'm Herkamal, an <a href="https://linkedin.com/in/herkamal-randhawa-23980a16a/">IT Professional</a>IT Professional</a></h1>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
+  - [osTicket: Prerequisites and Installation](https://github.com/Herkamal/osticket-prereqs)
   - [osTicket: Post-Installation Configuration]
   - [osTicket: Resolving Tickets in a Ticketing System]
 
