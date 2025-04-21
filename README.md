@@ -7,7 +7,7 @@
  
 - <b>Microsoft Azure</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/Herkamal/Install-AD)
-
+  - [Deploying Active Directory](https://github.com/Herkamal/Deploying-Active-Directory)
 
 <h2>🤳Connect with me on LinkedIn:</h2>
 
