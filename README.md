@@ -8,6 +8,7 @@
 - <b>Microsoft Azure</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/Herkamal/Install-AD)
   - [Deploying Active Directory](https://github.com/Herkamal/Deploying-Active-Directory)
+  - [Creating Users with Powershell](https://github.com/Herkamal/creating-users)
 
 <h2>🤳Connect with me on LinkedIn:</h2>
 
