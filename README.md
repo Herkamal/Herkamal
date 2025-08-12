@@ -6,6 +6,7 @@
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/Herkamal/Ticket-Lifecycle)
  
 - <b>Microsoft Azure</b>
+  - [Azure Compute and Networking](https://github.com/Herkamal/Compute-Network)
   - [Preparing AD Infrastructure in Azure](https://github.com/Herkamal/Install-AD)
   - [Deploying Active Directory](https://github.com/Herkamal/Deploying-Active-Directory)
   - [Creating Users with Powershell ](https://github.com/Herkamal/creating-users)
